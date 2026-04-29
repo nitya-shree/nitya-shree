@@ -1,7 +1,7 @@
 # Hi, I'm Nitya Shree 👋
 
-💻 Full Stack Developer (MERN Stack)  
-🚀 Passionate about building scalable and user-friendly web applications  
+💻 Aspiring Full Stack Developer (MERN Stack)  
+🚀 Focused on building scalable web applications and backend systems  
 
 ---
 
@@ -9,24 +9,33 @@
 - Frontend: React.js, Next.js  
 - Backend: Node.js, Express.js  
 - Database: MongoDB, SQL  
-- Tools: Git, Docker (Basics)  
+- Tools: Git, REST APIs, Docker (Basics)  
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Project
+
 ### 🔹 Complaint Management System
-- Built a full-stack web application to manage and track user complaints  
-- Implemented authentication and role-based access  
-- Designed REST APIs for efficient data handling  
+A full-stack web application to manage and resolve user complaints efficiently.
+
+✨ Features:
+- User authentication & role-based access  
+- Complaint tracking system  
+- Admin dashboard  
+
+⚙️ Tech Used:
+React.js | Node.js | Express | MongoDB  
 
 ---
 
-## 📈 Currently Learning
+## 📈 Currently Improving
 - Data Structures & Algorithms  
+- Backend Development (APIs & Performance)  
 - System Design Basics  
-- Cloud Technologies (AWS/Azure)  
 
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/nitya-shree
+- GitHub: https://github.com/nitya-shree  
+
+⭐ Always learning and building real-world projects
